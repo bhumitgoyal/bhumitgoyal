@@ -1,29 +1,194 @@
-<h1 align="center">Hi 👋, I'm Bhumit Goyal</h1>
-<h3 align="center">A passionate and results-driven software developer with 2+ years of experience in app and web development, specializing in AI integration and LangChain technologies.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **GitHub Repo-Runner**
+```
+██████╗ ██╗  ██╗██╗   ██╗███╗   ███╗██╗████████╗
+██╔══██╗██║  ██║██║   ██║████╗ ████║██║╚══██╔══╝
+██████╔╝███████║██║   ██║██╔████╔██║██║   ██║   
+██╔══██╗██╔══██║██║   ██║██║╚██╔╝██║██║   ██║   
+██████╔╝██║  ██║╚██████╔╝██║ ╚═╝ ██║██║   ██║   
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝   ╚═╝  
+                                          GOYAL
+```
 
-- 🌱 I’m currently learning **fundamental AI Theory and DSA**
+### **AI Engineer · Full-Stack Developer · Hackathon Builder**
 
-- 👯 I’m looking to collaborate on **AI Project's**
+*CS @ VIT Vellore · CGPA 9.12 · Building things that (hopefully) work*
 
-- 🤝 I’m looking for help with **LangGraph and SpringBoot**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumitgoyal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhumitgoyal)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bhumitgoyal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumitgoyal.bg@gmail.com)
 
-- 👨‍💻 All of my projects are available at [https://www.bhumitgoyal.xyz](https://www.bhumitgoyal.xyz)
+</div>
 
-- 📫 How to reach me **bhumitgoyal.bg@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-e72RHrSJa6YkGSPzXxECSKNPX_EnNLI/view?usp=drive_link](https://drive.google.com/file/d/1-e72RHrSJa6YkGSPzXxECSKNPX_EnNLI/view?usp=drive_link)
+## `$ whoami`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhumitgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhumitgoyal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhumitgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhumitgoyal" height="30" width="40" /></a>
-<a href="https://instagram.com/bhumitgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhumitgoyal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bhumitgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bhumitgoyal" height="30" width="40" /></a>
-</p>
+```python
+bhumit = {
+    "name"      : "Bhumit Goyal",
+    "university": "VIT Vellore — B.Tech CSE (2023–2027)",
+    "cgpa"      : 9.12,
+    "location"  : "Vellore, India",
+    "interests" : ["AI Agents", "RAG Systems", "Automation", "Hackathons"],
+    "currently" : "Building AI-powered tools that solve real problems",
+    "fun_fact"  : "Won a hackathon track at Yantra'25 with a mental health AI 🧠"
+}
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhumitgoyal&" alt="bhumitgoyal" /></p>
+## `$ ls ~/projects`
+
+> 10 projects I'm proud of. Click to explore.
+
+---
+
+### 🔬 AI & Intelligence Tools
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**github-analyze**](https://github.com/bhumitgoyal/github-analyze) ⭐2 | Summarizes any GitHub repo with AI insights | `Python` `LangChain` `OpenAI` `GitPython` |
+| [**trademarkia-AI-intern**](https://github.com/bhumitgoyal/trademarkia-AI-intern) | Trademark research automation with AI | `Python` |
+| [**liaplus-sentiment-analysis**](https://github.com/bhumitgoyal/liaplus-sentiment-analysis) | Real-time NLP sentiment engine | `Python` `NLP` |
+| [**resumeanalyzer**](https://github.com/bhumitgoyal/resumeanalyzer) + [**backend**](https://github.com/bhumitgoyal/resumeanalyzerbackend) | AI-powered resume scoring tool | `JavaScript` `Python` |
+
+---
+
+### ⚖️ Legal & Document Intelligence
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**convo-legal**](https://github.com/bhumitgoyal/convo-legal) | Conversational legal document Q&A | `Python` `LangChain` `LLMs` |
+| [**convo-legal-mistral**](https://github.com/bhumitgoyal/convo-legal-mistral) | Legal Q&A powered by Mistral | `Python` `Mistral` |
+| [**legal-scrapper**](https://github.com/bhumitgoyal/legal-scrapper) | Scrapes and structures legal data | `Python` |
+
+---
+
+### 🌐 Scrapers & Automation
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**sba-business-scrapper**](https://github.com/bhumitgoyal/sba-business-scrapper) ⭐2 | Discovers US SMBs from SBA listings | `Python` |
+| [**linkedin-sales-nav-scrapper**](https://github.com/bhumitgoyal/linkedin-sales-nav-scrapper) | Pulls leads from Sales Navigator | `JavaScript` |
+
+---
+
+### 🤖 RAG & LLM Systems
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**ragbot**](https://github.com/bhumitgoyal/ragbot) | RAG-powered conversational chatbot | `Python` `LangChain` |
+| [**rag_vercel**](https://github.com/bhumitgoyal/rag_vercel) | RAG backend deployed on Vercel | `Python` |
+| [**rag-front**](https://github.com/bhumitgoyal/rag-front) | Frontend interface for RAG chatbot | `TypeScript` |
+
+---
+
+### 🏆 Hackathon Projects
+
+| Project | Award | Description | Stack |
+|--------|-------|-------------|-------|
+| **SootheAI** | 🥇 Yantra'25 Track Winner | Mental health journal & mood tracker | `Python` `NLP` `OpenAI` `Firebase` |
+| **VakeelAI** | 🏅 Women Techies Top 5 / 800+ teams | AI legal clause extractor | `Python` `LangChain` `Streamlit` |
+| **CareBeds** | 🎯 SIH Internal Finalist | Hospital bed & OPD tracker | `Spring Boot` `React` `MongoDB` |
+
+---
+
+## `$ cat skills.json`
+
+```json
+{
+  "languages": ["Python", "Java", "C++", "JavaScript", "TypeScript", "SQL"],
+
+  "ai_ml": ["LangChain", "OpenAI API", "Mistral", "RAG", "NLP", "Streamlit"],
+
+  "backend": ["Spring Boot", "FastAPI", "Node.js", "REST APIs"],
+
+  "frontend": ["React", "TypeScript", "HTML/CSS"],
+
+  "databases": ["MongoDB", "Firebase", "SQL"],
+
+  "tools": ["Git", "Linux", "Postman", "n8n", "Retell/Vapi", "Docker"],
+
+  "automation": ["n8n", "Voice AI (Retell/Vapi)", "Web Scraping", "Lead Automation"]
+}
+```
+
+---
+
+## `$ cat achievements.log`
+
+```
+[2025] 🥇 TRACK WINNER     — Yantra'25 Hackathon (Reduced Inequalities Track)
+[2025] 🏅 TOP 5 / 800+     — Women Techies-25 (VakeelAI - AI Legal Aid)
+[2024] 🎯 FINALIST         — Smart India Hackathon (AI Bed Management)
+[2024] 🎯 FINALIST         — DevJams 2024 (Blockchain Task Verifier)
+```
+
+---
+
+## `$ cat experience.txt`
+
+**Marketrs Agency** · *Automation Engineer Intern* · May–July 2025
+> Built a Voice AI agent for inbound/outbound calls · Automated outreach for 500+ leads · Saved 20+ hrs/week
+
+**Prewery Pvt Ltd** · *Software Developer Intern* · Jan–Apr 2024
+> Built Spring Boot APIs · Shipped React UI updates · Deployed full-stack applications
+
+---
+
+## `$ cat interests.md`
+
+```
+🤖  Building AI agents that actually do useful things
+⚡  Automation — if it's repetitive, it should be automated
+🏗️  Full-stack systems from scratch to deployment
+🎯  Hackathons — fast builds, real problems
+📚  DSA & system design (LeetCode grind is real)
+🌍  Tech that creates impact for underserved communities
+```
+
+---
+
+## `$ git stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhumitgoyal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" alt="Bhumit's GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhumitgoyal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bhumitgoyal&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect & build something cool
+
+<a href="mailto:bhumitgoyal.bg@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-bhumitgoyal.bg%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/bhumitgoyal">
+  <img src="https://img.shields.io/badge/LinkedIn-bhumitgoyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/bhumitgoyal">
+  <img src="https://img.shields.io/badge/LeetCode-bhumitgoyal-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bhumitgoyal&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+> *"Code is just a tool. The real product is the problem you solve."*
+
+</div>
