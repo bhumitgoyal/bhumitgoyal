@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+# local-only portrait inputs — the public artifact is ascii.svg
+scripts/source-prepped.png
+scripts/source-photo.*
+scripts/_preview.html
+
+# scratch
+*.output
+.DS_Store

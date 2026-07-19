@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 466" role="img" aria-label="neofetch-style info card">
+  <style>
+    text { font-family: 'SF Mono','JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+    .key { font-size: 14px; font-weight: 600; }
+    .val { font-size: 14px; fill: #e6edf3; }
+    .title { font-size: 14px; fill: #7d8590; }
+    .prompt { font-size: 13px; fill: #39d353; }
+    .row {
+      opacity: 1;
+      animation: slidein .5s cubic-bezier(.2,.7,.2,1) both;
+    }
+    @keyframes slidein {
+      from { opacity: 0; transform: translateX(-10px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .row { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="559" height="465" rx="10" fill="#0d1117" stroke="#21262d"/>
+  <line x1="0" y1="40" x2="560" y2="40" stroke="#21262d"/>
+  <circle cx="32" cy="20" r="6" fill="#ff5f56"/><circle cx="50" cy="20" r="6" fill="#ffbd2e"/><circle cx="68" cy="20" r="6" fill="#27c93f"/>
+  <text x="280.0" y="25" text-anchor="middle" class="title">bhumit@github — neofetch</text>
+  <g class="row" style="animation-delay:0.05s">
+    <text x="26" y="66" class="prompt">$ neofetch</text>
+  </g>
+  <g class="row" style="animation-delay:0.180s"><text x="26" y="96" class="key" fill="#39d353">Role</text><text x="122" y="96" class="val">AI Engineer · Full-Stack Developer</text></g><g class="row" style="animation-delay:0.255s"><text x="26" y="126" class="key" fill="#56d4dd">Now</text><text x="122" y="126" class="val">Building practical AI systems &amp; agents</text></g><g class="row" style="animation-delay:0.330s"><text x="26" y="156" class="key" fill="#bc8cff">Prev</text><text x="122" y="156" class="val">AI workflows @ Trademarkia (intern)</text></g><g class="row" style="animation-delay:0.405s"><text x="26" y="186" class="key" fill="#58a6ff">Edu</text><text x="122" y="186" class="val">B.Tech CSE — VIT Vellore, '23–'27</text></g><g class="row" style="animation-delay:0.480s"><text x="26" y="216" class="key" fill="#e3b341">Stack</text><text x="122" y="216" class="val">Python · TypeScript · Java · Go</text></g><g class="row" style="animation-delay:0.555s"><text x="26" y="246" class="key" fill="#ff8c42">Backend</text><text x="122" y="246" class="val">FastAPI · Spring Boot · Firebase · Mongo</text></g><g class="row" style="animation-delay:0.630s"><text x="26" y="276" class="key" fill="#39d353">AI</text><text x="122" y="276" class="val">LangChain · RAG · OpenAI · agentic loops</text></g><g class="row" style="animation-delay:0.705s"><text x="26" y="306" class="key" fill="#56d4dd">Shipping</text><text x="122" y="306" class="val">github-analyze · convo-legal · academia-ai</text></g><g class="row" style="animation-delay:0.780s"><text x="26" y="336" class="key" fill="#f85149">Focus</text><text x="122" y="336" class="val">agents that know your work, not demos</text></g><g class="row" style="animation-delay:0.855s"><text x="26" y="366" class="key" fill="#39d353">Status</text><text x="122" y="366" class="val">online — open to high-impact eng roles</text></g><g class="row" style="animation-delay:0.930s"><text x="26" y="396" class="key" fill="#58a6ff">Links</text><text x="122" y="396" class="val">in/bhumitgoyal · leetcode/bhumitgoyal</text></g>
+  <g class="row" style="animation-delay:1.005s"><rect x="26" y="432" width="20" height="12" rx="2" fill="#161b22"/><rect x="52" y="432" width="20" height="12" rx="2" fill="#39d353"/><rect x="78" y="432" width="20" height="12" rx="2" fill="#56d4dd"/><rect x="104" y="432" width="20" height="12" rx="2" fill="#e3b341"/><rect x="130" y="432" width="20" height="12" rx="2" fill="#f85149"/><rect x="156" y="432" width="20" height="12" rx="2" fill="#bc8cff"/><rect x="182" y="432" width="20" height="12" rx="2" fill="#58a6ff"/><rect x="208" y="432" width="20" height="12" rx="2" fill="#ff8c42"/></g>
+</svg>
